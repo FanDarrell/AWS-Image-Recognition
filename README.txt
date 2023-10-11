@@ -1,4 +1,4 @@
-This is the compilation and run instructions for programming assignment 1 in CS 643
+This is the compilation and run instructions for the two associated programs.
 
 1. Log into the AWS academy page and navigate to "Learner Lab" under the 'modules' section of the course.
 
